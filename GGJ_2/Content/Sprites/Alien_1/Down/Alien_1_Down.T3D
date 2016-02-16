@@ -1,0 +1,11 @@
+Begin Object Class=PaperFlipbook Name="Alien_1_Down"
+   KeyFrames(0)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00043_Sprite.00043_Sprite')
+   KeyFrames(1)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00044_Sprite.00044_Sprite')
+   KeyFrames(2)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00045_Sprite.00045_Sprite')
+   KeyFrames(3)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00046_Sprite.00046_Sprite')
+   KeyFrames(4)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00047_Sprite.00047_Sprite')
+   KeyFrames(5)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00048_Sprite.00048_Sprite')
+   KeyFrames(6)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00049_Sprite.00049_Sprite')
+   KeyFrames(7)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00050_Sprite.00050_Sprite')
+   KeyFrames(8)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Down/00051_Sprite.00051_Sprite')
+End Object

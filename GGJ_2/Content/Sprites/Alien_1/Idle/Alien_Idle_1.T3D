@@ -1,0 +1,7 @@
+Begin Object Class=PaperFlipbook Name="Alien_Idle_1"
+   FramesPerSecond=8.000000
+   KeyFrames(0)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Idle/00043_Sprite.00043_Sprite')
+   KeyFrames(1)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Idle/00044_Sprite.00044_Sprite')
+   KeyFrames(2)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Idle/00045_Sprite.00045_Sprite')
+   KeyFrames(3)=(Sprite=PaperSprite'/Game/PuzzleBP/Game/Sprites/Alien_1/Idle/00044_Sprite.00044_Sprite')
+End Object

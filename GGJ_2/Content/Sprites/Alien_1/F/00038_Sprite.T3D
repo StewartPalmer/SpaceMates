@@ -1,0 +1,23 @@
+Begin Object Class=PaperSprite Name="00038_Sprite"
+   Begin Object Class=BodySetup Name="BodySetup_100"
+   End Object
+   Begin Object Name="BodySetup_100"
+      AggGeom=(BoxElems=((Center=(X=15.000000,Y=0.000000,Z=4.500000),X=262.000000,Y=10.000000,Z=187.000000)))
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+      DefaultInstance=(CollisionProfileName="BlockAllDynamic",ObjectType=ECC_WorldDynamic)
+   End Object
+   SourceDimension=(X=408.000000,Y=257.000000)
+   SourceTextureDimension=(X=408.000000,Y=257.000000)
+   SourceTexture=Texture2D'/Game/PuzzleBP/Game/Sprites/Alien_1/F/00038.00038'
+   DefaultMaterial=MaterialInstanceConstant'/Paper2D/TranslucentUnlitSpriteMaterial.TranslucentUnlitSpriteMaterial'
+   PixelsPerUnrealUnit=1.000000
+   BodySetup=BodySetup'BodySetup_100'
+   CollisionGeometry=(Shapes=((Vertices=((X=-131.000000,Y=-93.500000),(X=131.000000,Y=-93.500000),(X=131.000000,Y=93.500000),(X=-131.000000,Y=93.500000)),BoxSize=(X=262.000000,Y=187.000000),BoxPosition=(X=219.000000,Y=124.500000))))
+   RenderGeometry=(Shapes=((Vertices=((X=-131.000000,Y=-93.500000),(X=131.000000,Y=-93.500000),(X=131.000000,Y=93.500000),(X=-131.000000,Y=93.500000)),BoxSize=(X=262.000000,Y=187.000000),BoxPosition=(X=219.000000,Y=124.500000))))
+   BakedRenderData(0)=(X=146.000000,Y=98.000000,Z=0.857843,W=0.120623)
+   BakedRenderData(1)=(X=-116.000000,Y=98.000000,Z=0.215686,W=0.120623)
+   BakedRenderData(2)=(X=-116.000000,Y=-89.000000,Z=0.215686,W=0.848249)
+   BakedRenderData(3)=(X=146.000000,Y=-89.000000,Z=0.857843,W=0.848249)
+   BakedRenderData(4)=(X=146.000000,Y=98.000000,Z=0.857843,W=0.120623)
+   BakedRenderData(5)=(X=-116.000000,Y=-89.000000,Z=0.215686,W=0.848249)
+End Object
